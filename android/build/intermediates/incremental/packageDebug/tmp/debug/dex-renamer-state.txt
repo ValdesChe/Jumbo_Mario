@@ -1,0 +1,4 @@
+#Sat Jun 23 23:44:25 CEST 2018
+base.0=P\:\\JAVA\\Libgdx\\Jumbo\\android\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

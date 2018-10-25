@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="50" height="30" tilewidth="16" tileheight="16" nextobjectid="75">
+ <tileset firstgid="1" name="mario" tilewidth="16" tileheight="16" spacing="2" margin="1" tilecount="696" columns="29">
+  <image source="../test/android/assets/Super Mario Bros - Tileset.png" width="528" height="448"/>
+ </tileset>
+ <layer name="background" width="50" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztwzEJAAAMA7AydfWvqCL2JpBeUlVVVVVV9XXGG7Go
+  </data>
+ </layer>
+ <layer name="graphics" width="50" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt1+EKwCAIRtF8/5fu/1BLpdrWPTAGI7LVV1BrAACcIacHUCDGA6yk5Y38wRPJxi1Z2vmfMzUyY7lhnSqsc7LaX7Q26xSTmTd5vPE+O/aBVsOr6eWGvfsNnLX/Zd2zR/fvTBvt+6i/WR1IBgBd
+  </data>
+ </layer>
+ <objectgroup name="bricks">
+  <object id="3" gid="2" x="304" y="400" width="16" height="16"/>
+  <object id="7" gid="2" x="158" y="399" width="16" height="16"/>
+  <object id="9" gid="2" x="141" y="399" width="16" height="16"/>
+  <object id="11" gid="2" x="126" y="398" width="16" height="16"/>
+  <object id="13" gid="2" x="96" y="320" width="16" height="16"/>
+  <object id="14" gid="2" x="158" y="288" width="16" height="16"/>
+  <object id="15" gid="2" x="238" y="255" width="16" height="16"/>
+  <object id="16" gid="2" x="319" y="287" width="16" height="16"/>
+  <object id="17" gid="2" x="352" y="318" width="16" height="16"/>
+  <object id="18" gid="2" x="433" y="351" width="16" height="16"/>
+  <object id="20" gid="2" x="448" y="400" width="16" height="16"/>
+  <object id="21" gid="2" x="478" y="432" width="16" height="16"/>
+  <object id="22" gid="2" x="524" y="383" width="16" height="16"/>
+  <object id="23" gid="2" x="538" y="382" width="16" height="16"/>
+  <object id="26" gid="2" x="528" y="320" width="16" height="16"/>
+  <object id="28" gid="2" x="511" y="320" width="16" height="16"/>
+  <object id="29" gid="2" x="415" y="208" width="16" height="16"/>
+  <object id="30" gid="2" x="333" y="319" width="16" height="16"/>
+  <object id="31" gid="2" x="314" y="318" width="16" height="16"/>
+  <object id="32" gid="2" x="332" y="366" width="16" height="16"/>
+  <object id="33" gid="2" x="346" y="366" width="16" height="16"/>
+  <object id="34" gid="2" x="218" y="399" width="16" height="16"/>
+  <object id="35" gid="2" x="238" y="401" width="16" height="16"/>
+  <object id="36" gid="2" x="253" y="399" width="16" height="16"/>
+ </objectgroup>
+ <objectgroup name="coins"/>
+ <objectgroup name="ground">
+  <object id="49" gid="589" x="126" y="191" width="16" height="16"/>
+  <object id="50" gid="590" x="139" y="189" width="16" height="16"/>
+  <object id="51" gid="588" x="108" y="186" width="16" height="16"/>
+  <object id="52" gid="559" x="109" y="174" width="16" height="16"/>
+  <object id="53" gid="560" x="121" y="179" width="16" height="16"/>
+  <object id="54" gid="560" x="123" y="176" width="16" height="16"/>
+  <object id="55" gid="560" x="124" y="171" width="16" height="16"/>
+  <object id="56" gid="560" x="117" y="169" width="16" height="16"/>
+  <object id="57" gid="560" x="110" y="173" width="16" height="16"/>
+  <object id="58" gid="560" x="109" y="170" width="16" height="16"/>
+  <object id="59" gid="561" x="137" y="175" width="16" height="16"/>
+  <object id="60" gid="561" x="139" y="175" width="16" height="16"/>
+  <object id="61" gid="561" x="145" y="165" width="16" height="16"/>
+  <object id="62" gid="561" x="140" y="172" width="16" height="16"/>
+  <object id="63" gid="561" x="140" y="165" width="16" height="16"/>
+  <object id="64" gid="561" x="133" y="168" width="16" height="16"/>
+  <object id="65" gid="561" x="144" y="171" width="16" height="16"/>
+  <object id="66" gid="561" x="112" y="169" width="16" height="16"/>
+  <object id="67" gid="561" x="110" y="163" width="16" height="16"/>
+  <object id="68" gid="561" x="118" y="163" width="16" height="16"/>
+  <object id="69" gid="561" x="128" y="164" width="16" height="16"/>
+  <object id="70" gid="561" x="137" y="164" width="16" height="16"/>
+  <object id="71" gid="557" x="450" y="131" width="16" height="16"/>
+  <object id="72" gid="557" x="466" y="131" width="16" height="16"/>
+  <object id="73" gid="557" x="462" y="131" width="16" height="16"/>
+  <object id="74" gid="557" x="456" y="128" width="16" height="16"/>
+ </objectgroup>
+</map>
